@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Fri Oct 27 12:57:41 CDT 2017
+1.base=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+1.file=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\nogabe.mp3
+4.set=ANDROID_RESOURCE
+2.base=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+count=5
+1.set=ANDROID_RESOURCE
+3.base=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.file=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+4.base=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-debug.ap_

@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Fri Oct 27 13:10:04 CDT 2017
+2.base=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-release.ap_
+5.file=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\menu\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-release.ap_
+2.set=ANDROID_RESOURCE
+4.base=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-release.ap_
+count=6
+0.file=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\raw\\nogabe.mp3
+5.base=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-release.ap_
+4.set=ANDROID_RESOURCE
+1.file=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
+1.set=DEX
+2.file=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-release.ap_\\resources.arsc
+0.base=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-release.ap_
+3.file=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-release.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+4.file=D\:\\AndroidStudioProjects\\MusicService\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\layout\\activity_main.xml
+0.set=ANDROID_RESOURCE
